@@ -5,6 +5,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
+			lastUpdated: true,
 			title: 'Leosia.GOV',
 			favicon: '/favicon_dark.png',
 			customCss: [

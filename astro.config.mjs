@@ -6,9 +6,6 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Leosia.GOV',
-			logo: {
-				src: './src/assets/leosiafavicon.png',
-			  },
 			favicon: '/favicon_dark.png',
 			customCss: [
 				// Relative path to my custom CSS file

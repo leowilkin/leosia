@@ -5,6 +5,10 @@ description: This page contains information about visas for the Leosian island.
 
 To enter the Leosian island, you need a visa. The visa is a document that allows you to enter the Leosian island for a specific period of time. The visa is issued solely by the Leosian government.
 
+# Apply Now
+
+To apply, please continue [here](https://leosia.netlify.app).
+
 ## Who needs to apply?
 If you already have a Leosian passport, you don't need to apply for a visa. If you don't have a Leosian passport, you need to apply for a visa. This is a quick and easy process, which must be completed online. There is no need to visit a Leosian embassy or consulate, and there is no need to send any documents by post. The service is free of charge, and you can apply for a visa at any time.
 

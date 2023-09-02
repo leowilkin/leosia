@@ -28,5 +28,3 @@ Yes, you need a valid visa to enter the Leosian island. If you don't have a vali
 
 ## Do I need a valid visa to transit through the Leosian island?
 Yes, you need a valid visa to transit through the Leosian island. If you don't have a valid visa, you will not be allowed to transit through the Leosian island. If you have a valid visa, you will be allowed to transit through the Leosian island.
-
-##

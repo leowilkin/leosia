@@ -1,5 +1,5 @@
 ---
-title: Residents
+title: Overview
 description: Important information for residents of the Leosian island.
 ---
 

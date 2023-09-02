@@ -29,24 +29,6 @@ export default defineConfig({
 					autogenerate: { directory: 'services' },
 				},
 			],
-			defaultLocale: 'en',
-			locales: {
-				// English docs in `src/content/docs/en/`
-				en: {
-					label: 'English',
-					lang: 'en-GB',
-				},
-				// French docs in `src/content/docs/zh/`
-				fr: {
-					label: 'Français',
-					lang: 'fr-FR',
-				},
-				// Spanish docs in `src/content/docs/ar/`
-				es: {
-					label: 'Español',
-					lang: 'es-ES',
-				},
-			},
 		}),
 	],
 

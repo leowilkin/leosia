@@ -2,7 +2,7 @@
 title: Visas
 description: This page contains information about visas for the Leosian island.
 ---
-## What is a visa?
+
 To enter the Leosian island, you need a visa. The visa is a document that allows you to enter the Leosian island for a specific period of time. The visa is issued solely by the Leosian government.
 
 ## Who needs to apply?

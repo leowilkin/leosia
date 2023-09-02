@@ -5,23 +5,47 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: {
-				github: 'https://github.com/withastro/starlight',
-			},
+			title: 'Leosia.GOV',
+			customCss: [
+				// Relative path to my custom CSS file
+				'./src/styles/custom.css',
+			],
 			sidebar: [
 				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
-					],
+					label: 'Visitors Guide',
+					autogenerate: { directory: 'visitors' },
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Residents Guide',
+					autogenerate: { directory: 'residents' },
+				},
+				{
+					label: 'Visas & Applications',
+					autogenerate: { directory: 'applications' },
+				},
+				{
+					label: 'Government Services',
+					autogenerate: { directory: 'services' },
 				},
 			],
+			defaultLocale: 'en',
+			locales: {
+				// English docs in `src/content/docs/en/`
+				en: {
+					label: 'English',
+					lang: 'en-GB',
+				},
+				// French docs in `src/content/docs/zh/`
+				fr: {
+					label: 'Français',
+					lang: 'fr-FR',
+				},
+				// Spanish docs in `src/content/docs/ar/`
+				es: {
+					label: 'Español',
+					lang: 'es-ES',
+				},
+			},
 		}),
 	],
 

@@ -9,6 +9,7 @@ export default defineConfig({
 			logo: {
 				src: './src/assets/leosiafavicon.png',
 			  },
+			favicon: '/favicon_dark.png',
 			customCss: [
 				// Relative path to my custom CSS file
 				'./src/styles/custom.css',

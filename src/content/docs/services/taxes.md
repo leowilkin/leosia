@@ -8,17 +8,17 @@ How much income tax you pay in each year depends on:
 
 ::tip
 Tax-free Personal Allowance
-The standard Personal Allowance is £12,570, which is the amount of income you do not have to pay tax on.
-Your Personal Allowance may be bigger if you claim Marriage Allowance or Blind Person’s Allowance. It’s smaller if your income is over £100,000.
+The standard Personal Allowance is L$12,570, which is the amount of income you do not have to pay tax on.
+Your Personal Allowance may be bigger if you claim Marriage Allowance or Blind Person’s Allowance. It’s smaller if your income is over L$100,000.
 :::
 
 ## Rates and Bands
 | Income Band        	| Income Levels (per annum) 	| Tax on Income above band 	|
 |--------------------	|---------------------------	|--------------------------	|
-| Personal Allowance 	| Up to £12,570             	| 0%                       	|
-| Basic rate         	| £12,571 to £50,270        	| 20%                      	|
-| Higher rate        	| £50,271 to £125,140       	| 40%                      	|
-| Additional rate    	| Over £125,140             	| 45%                      	|
+| Personal Allowance 	| Up to L$12,570             	| 0%                       	|
+| Basic rate         	| L$12,571 to L$50,270        	| 20%                      	|
+| Higher rate        	| L$50,271 to L$125,140       	| 40%                      	|
+| Additional rate    	| Over L$125,140             	| 45%                      	|
 
 ## Other Allowances
 You have Tax-free Allowances for:
@@ -27,8 +27,8 @@ You have Tax-free Allowances for:
 - Dividend income, if you own shares in a company
 
 You may also have tax-free allowances for:
-- Your first £1,000 of income from self-employment - this is your ‘trading allowance’
-- Your first £1,000 of income from property you rent (unless you’re using the Rent a Room Scheme)
+- Your first L$1,000 of income from self-employment - this is your ‘trading allowance’
+- Your first L$1,000 of income from property you rent (unless you’re using the Rent a Room Scheme)
   
 Find out whether you’re eligible for the trading and property allowances.
 

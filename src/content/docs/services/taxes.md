@@ -6,11 +6,13 @@ How much income tax you pay in each year depends on:
 - How much of your income is above your Personal Allowance
 - How much of your income falls within each tax band
 
-## Tax-free Personal Allowance
+::tip
+Tax-free Personal Allowance
 The standard Personal Allowance is £12,570, which is the amount of income you do not have to pay tax on.
 Your Personal Allowance may be bigger if you claim Marriage Allowance or Blind Person’s Allowance. It’s smaller if your income is over £100,000.
+:::
 
-# Rates and Bands
+## Rates and Bands
 | Income Band        	| Income Levels (per annum) 	| Tax on Income above band 	|
 |--------------------	|---------------------------	|--------------------------	|
 | Personal Allowance 	| Up to £12,570             	| 0%                       	|
@@ -18,8 +20,8 @@ Your Personal Allowance may be bigger if you claim Marriage Allowance or Blind P
 | Higher rate        	| £50,271 to £125,140       	| 40%                      	|
 | Additional rate    	| Over £125,140             	| 45%                      	|
 
-# Other allowances
-You have tax-free allowances for:
+## Other Allowances
+You have Tax-free Allowances for:
 
 - Savings interest
 - Dividend income, if you own shares in a company

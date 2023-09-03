@@ -15,7 +15,7 @@ description: This page contains information about taxes for the Leosian island.
 
 # Income Tax rates and bands
 ## <b>Personal Allowance</b>	Up to £12,570	- taxed 0%
-## <b>Basic rate</b>	£12,571 to £50,270	- taxed	20%  ## <b></b>
+## <b>Basic rate</b>	£12,571 to £50,270	- taxed	20%
 ## <b>Higher rate</b>	£50,271 to £125,140	- taxed	40%
 ## <b>Additional rate</b>	Over £125,140	- taxed	45%
 

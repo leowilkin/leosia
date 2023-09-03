@@ -10,7 +10,7 @@ description: This page contains information about taxes for the Leosian island.
 ### How much of oyur income falls within each tax band
 
 # Your tax-free Personal Allowance
-### The standard Personal Allowance is £12,570, which is the amount of income you do not have to pay tax on.
+##### The standard Personal Allowance is £12,570, which is the amount of income you do not have to pay tax on.
 
-### Your Personal Allowance may be bigger if you claim Marriage Allowance or Blind Person’s Allowance. It’s smaller if your income is over £100,000.
+#### Your Personal Allowance may be bigger if you claim Marriage Allowance or Blind Person’s Allowance. It’s smaller if your income is over £100,000.
 

@@ -15,7 +15,7 @@ description: This page contains information about housing services for the Leosi
 ::note
   You may be able to apply even if you do not live in the area.
 :::
-
+ 
 ## Waiting lists
 
 Councils decide who gets offered housing based on a ‘current housing severity’ system.

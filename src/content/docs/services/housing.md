@@ -102,7 +102,7 @@ Usually, you will not get Housing Benefit if:
 - you’re an asylum seeker or sponsored to be in the UK
 - you’re subject to immigration control and your granted leave states that you cannot claim public funds
 - you’re a Crown Tenant
-- you’ve reached State Pension age but your live-in partner has not - unless you had an existing claim as a couple before 15 May 2019
+- you’ve reached State Pension age but your live-in partner has not - unless you had an existing claim as a couple before INSERT START OF TAX YEAR/ ACTUAL YEAR DATE REDUCE 4 YEARS FROM CURRENT
 
 You may be able to get other help with housing costs.
 

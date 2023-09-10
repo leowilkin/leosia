@@ -70,7 +70,7 @@ You can make a new claim for Housing Benefit if any of the following apply:
 - you’re in supported, sheltered or temporary housing
 
 ### If you’re over State Pension age and have an existing claim
-Your existing claim will not be affected if, before ENTER A DATE., you:
+Your existing claim will not be affected if, before 8th Of April., you:
 
 - were getting Housing Benefit
 - had reached State Pension age
@@ -102,7 +102,7 @@ Usually, you will not get Housing Benefit if:
 - you’re an asylum seeker or sponsored to be in the UK
 - you’re subject to immigration control and your granted leave states that you cannot claim public funds
 - you’re a Crown Tenant
-- you’ve reached State Pension age but your live-in partner has not - unless you had an existing claim as a couple before INSERT START OF TAX YEAR/ ACTUAL YEAR DATE REDUCE 4 YEARS FROM CURRENT
+- you’ve reached State Pension age but your live-in partner has not - unless you had an existing claim as a couple before 8th of April 2019
 
 You may be able to get other help with housing costs.
 
@@ -115,5 +115,5 @@ Your gross receipts include:
 - rental income (before expenses)
 - any amounts you receive for meals, goods and services, such as cleaning or laundry
 - any ‘balancing charges’
-You usually count your gross receipts for a tax year — that’s, from INSERT START OF TAX YEAR one year to INSERT END OF TAX YEAR the next.
+You usually count your gross receipts for a tax year — that’s, from 8th of April one year to 7th of April the next.
 

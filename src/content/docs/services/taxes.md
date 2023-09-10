@@ -48,3 +48,7 @@ If you do not claim Marriage Allowance and you or your partner were born before 
 :::note
 If you do not understand any element of the Leosian tax system, please feel free to get in touch with the Leosian Tax Office at `help@tax.leosia.org`.
 :::
+
+## Tax Year
+
+Each tax year is to start on April 8th at 00:00 and end at April 7th the following year at 23:59
